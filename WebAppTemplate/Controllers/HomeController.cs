@@ -15,7 +15,7 @@ namespace WebAppTemplate.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description test page .";
 
             return View();
         }
